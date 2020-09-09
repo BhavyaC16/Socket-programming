@@ -19,13 +19,18 @@ int main(int argc, char *argv[])
 
 	server.sin_family = AF_INET;
 	server.sin_port = htons(PORT);
-	
+
 	socketID = socket(AF_INET, SOCK_STREAM, 0);
 	if(socketID==-1){
 		perror("Error in socket creation");
 		exit(1);
 	}
 	printf("Socket created\n");
+
+	if(argc!=2){
+		printf("Please provide IP address as an argument to the client.\nFor example, for local server, execute ./client 127.0.0.1\nElse, specify the IP address of the sever: ./client 192.168.xxx.xxx\n");
+		exit(0);
+	}
 
 	if(inet_pton(AF_INET, argv[1], &server.sin_addr)<=0)
     {
