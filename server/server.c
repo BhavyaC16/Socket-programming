@@ -32,7 +32,7 @@ int main()
 
 	int opt = 1;
 	setsockopt(socketID, SOL_SOCKET, SO_REUSEADDR, (char *)&opt, sizeof(opt));
-	
+
 	int bind_status = bind(socketID, (struct sockaddr *)&server, sizeof(server));
 	if(bind_status!=0){
 		perror("Error in socket binding");
@@ -65,19 +65,19 @@ int main()
 		printf("Filename sent by client: %s\n", filenameRecd);
 		printf("Path to file: %s\n", file_path);
 
-		char file_found_status[20];
+		//char file_found_status[20];
 		FILE* fp = fopen(file_path, "rb");
 		if(fp==NULL){
-			strcpy(file_found_status, "File_not_found");
-			send(client, file_found_status, strlen(file_found_status), 0);
+		//	strcpy(file_found_status, "File_not_found");
+		//	send(client, file_found_status, strlen(file_found_status), 0);
 			printf("File not found in shared drive\nClosing connection\n");
 			close(client);
 			continue;
 			//perror("File not found in shared drive");
 			//exit(1);
 		}
-		strcpy(file_found_status, "File_found");
-		send(client, file_found_status, strlen(file_found_status), 0);
+		//strcpy(file_found_status, "File_found");
+		//send(client, file_found_status, strlen(file_found_status), 0);
 		printf("File opened\nStarting file transfer\n");
 
 		int x;

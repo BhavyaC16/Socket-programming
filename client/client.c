@@ -56,13 +56,13 @@ int main(int argc, char *argv[])
 	}
 	printf("Filename sent\n");
 
-	char file_found_status[20] = {0};
-	read(socketID, file_found_status, 20);
-	if(strcmp(file_found_status, "File_not_found")==0){
-		printf("File not found in shared drive\n Closing client\n");
-		close(socketID);
-		exit(1);
-	}
+	//char file_found_status[20] = {0};
+	//read(socketID, file_found_status, 20);
+	//if(strcmp(file_found_status, "File_not_found")==0){
+	//	printf("File not found in shared drive\n Closing client\n");
+	//	close(socketID);
+	//	exit(1);
+	//}
 
 	FILE* fp = fopen(file_path, "wb");
 	if(fp==NULL){

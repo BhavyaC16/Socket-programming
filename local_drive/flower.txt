@@ -1,0 +1,438 @@
+A flower, sometimes known as a bloom or blossom, is the reproductive structure found in flowering plants (plants of the division Magnoliophyta, also called angiosperms). The biological function of a flower is to affect reproduction, usually by providing a mechanism for the union of sperm with eggs. Flowers may facilitate outcrossing (fusion of sperm and eggs from different individuals in a population) resulting from cross pollination or allow selfing (fusion of sperm and egg from the same flower) when self pollination occurs.
+
+Pollination have two types which is self-pollination and cross-pollination. Self-pollination happened when the pollen from the anther is deposited on the stigma of the same flower, or another flower on the same plant. Cross-pollination is the transfer of pollen from the anther of one flower to the stigma of another flower on a different individual of the same species. Self-pollination happened in flowers where the stamen and carpel mature at the same time, and are positioned so that the pollen can land on the flower’s stigma. This pollination does not require an investment from the plant to provide nectar and pollen as food for pollinators.[1]
+
+Some flowers produce diaspores without fertilization (parthenocarpy). Flowers contain sporangia and are the site where gametophytes develop. Many flowers have evolved to be attractive to animals, so as to cause them to be vectors for the transfer of pollen. After fertilization, the ovary of the flower develops into fruit containing seeds.
+
+In addition to facilitating the reproduction of flowering plants, flowers have long been admired and used by humans to bring beauty to their environment, and also as objects of romance, ritual, religion, medicine and as a source of food.
+
+
+Contents
+1	Morphology
+1.1	Floral parts
+1.1.1	Perianth
+1.1.2	Reproductive
+1.2	Structure
+1.2.1	Inflorescence
+1.2.2	Floral diagrams and floral formulae
+2	Development
+2.1	Flowering transition
+2.2	Organ development
+3	Floral function
+3.1	Floral specialization and pollination
+4	Pollination
+4.1	Pollination mechanism
+4.2	Attraction methods
+4.3	Flower-pollinator relationships
+4.4	Pollen allergy
+5	Seed dispersal
+6	Evolution
+7	Color
+8	Symbolism
+9	Human usage
+9.1	Flower-giving
+10	See also
+11	References
+12	Further reading
+13	External links
+Morphology
+
+
+Main parts of a mature flower (Ranunculus glaberrimus).
+
+Diagram of flower parts.
+Floral parts
+The essential parts of a flower can be considered in two parts: the vegetative part, consisting of petals and associated structures in the perianth, and the reproductive or sexual parts. A stereotypical flower consists of four kinds of structures attached to the tip of a short stalk. Each of these kinds of parts is arranged in a whorl on the receptacle. The four main whorls (starting from the base of the flower or lowest node and working upwards) are as follows:
+
+Perianth
+Main articles: Perianth, Sepal, and Corolla (flower)
+Collectively the calyx and corolla form the perianth (see diagram).
+
+Calyx: the outermost whorl consisting of units called sepals; these are typically green and enclose the rest of the flower in the bud stage, however, they can be absent or prominent and petal-like in some species.
+Corolla: the next whorl toward the apex, composed of units called petals, which are typically thin, soft and colored to attract animals that help the process of pollination.
+Reproductive
+Main articles: Plant reproductive morphology, Androecium, and Gynoecium
+
+Reproductive parts of Easter Lily (Lilium longiflorum). 1. Stigma, 2. Style, 3. Stamens, 4. Filament, 5. Petal
+Androecium (from Greek andros oikia: man's house): the next whorl (sometimes multiplied into several whorls), consisting of units called stamens. Stamens consist of two parts: a stalk called a filament, topped by an anther where pollen is produced by meiosis and eventually dispersed.
+Gynoecium (from Greek gynaikos oikia: woman's house): the innermost whorl of a flower, consisting of one or more units called carpels. The carpel or multiple fused carpels form a hollow structure called an ovary, which produces ovules internally. Ovules are megasporangia and they in turn produce megaspores by meiosis which develop into female gametophytes. These give rise to egg cells. The gynoecium of a flower is also described using an alternative terminology wherein the structure one sees in the innermost whorl (consisting of an ovary, style and stigma) is called a pistil. A pistil may consist of a single carpel or a number of carpels fused together. The sticky tip of the pistil, the stigma, is the receptor of pollen. The supportive stalk, the style, becomes the pathway for pollen tubes to grow from pollen grains adhering to the stigma. The relationship to the gynoecium on the receptacle is described as hypogynous (beneath a superior ovary), perigynous (surrounding a superior ovary), or epigynous (above inferior ovary).
+Structure
+Although the arrangement described above is considered "typical", plant species show a wide variation in floral structure.[2] These modifications have significance in the evolution of flowering plants and are used extensively by botanists to establish relationships among plant species.
+
+The four main parts of a flower are generally defined by their positions on the receptacle and not by their function. Many flowers lack some parts or parts may be modified into other functions and/or look like what is typically another part. In some families, like Ranunculaceae, the petals are greatly reduced and in many species the sepals are colorful and petal-like. Other flowers have modified stamens that are petal-like; the double flowers of Peonies and Roses are mostly petaloid stamens.[3] Flowers show great variation and plant scientists describe this variation in a systematic way to identify and distinguish species.
+
+Specific terminology is used to describe flowers and their parts. Many flower parts are fused together; fused parts originating from the same whorl are connate, while fused parts originating from different whorls are adnate; parts that are not fused are free. When petals are fused into a tube or ring that falls away as a single unit, they are sympetalous (also called gamopetalous). Connate petals may have distinctive regions: the cylindrical base is the tube, the expanding region is the throat and the flaring outer region is the limb. A sympetalous flower, with bilateral symmetry with an upper and lower lip, is bilabiate. Flowers with connate petals or sepals may have various shaped corolla or calyx, including campanulate, funnelform, tubular, urceolate, salverform or rotate.
+
+Referring to "fusion," as it is commonly done, appears questionable because at least some of the processes involved may be non-fusion processes. For example, the addition of intercalary growth at or below the base of the primordia of floral appendages such as sepals, petals, stamens and carpels may lead to a common base that is not the result of fusion.[4][5][6]
+
+
+Left: A normal zygomorphic Streptocarpus flower. Right: An aberrant peloric Streptocarpus flower. Both of these flowers appeared on the Streptocarpus hybrid 'Anderson's Crows' Wings'.
+Many flowers have a symmetry. When the perianth is bisected through the central axis from any point and symmetrical halves are produced, the flower is said to be actinomorphic or regular, e.g. rose or trillium. This is an example of radial symmetry. When flowers are bisected and produce only one line that produces symmetrical halves, the flower is said to be irregular or zygomorphic, e.g. snapdragon or most orchids.
+
+Flowers may be directly attached to the plant at their base (sessile—the supporting stalk or stem is highly reduced or absent). The stem or stalk subtending a flower is called a peduncle. If a peduncle supports more than one flower, the stems connecting each flower to the main axis are called pedicels. The apex of a flowering stem forms a terminal swelling which is called the torus or receptacle.
+
+Inflorescence
+
+The familiar calla lily is not a single flower. It is actually an inflorescence of tiny flowers pressed together on a central stalk that is surrounded by a large petal-like bract.
+Main article: Inflorescence
+In those species that have more than one flower on an axis, the collective cluster of flowers is termed an inflorescence. Some inflorescences are composed of many small flowers arranged in a formation that resembles a single flower. The common example of this is most members of the very large composite (Asteraceae) group. A single daisy or sunflower, for example, is not a flower but a flower head—an inflorescence composed of numerous flowers (or florets). An inflorescence may include specialized stems and modified leaves known as bracts.
+
+Floral diagrams and floral formulae
+Main articles: Floral formula and Floral diagram
+A floral formula is a way to represent the structure of a flower using specific letters, numbers and symbols, presenting substantial information about the flower in a compact form. It can represent a taxon, usually giving ranges of the numbers of different organs, or particular species. Floral formulae have been developed in the early 19th century and their use has declined since. Prenner et al. (2010) devised an extension of the existing model to broaden the descriptive capability of the formula.[7] The format of floral formulae differs in different parts of the world, yet they convey the same information.[8][9][10][11]
+
+The structure of a flower can also be expressed by the means of floral diagrams. The use of schematic diagrams can replace long descriptions or complicated drawings as a tool for understanding both floral structure and evolution. Such diagrams may show important features of flowers, including the relative positions of the various organs, including the presence of fusion and symmetry, as well as structural details.[8]
+
+Development
+A flower develops on a modified shoot or axis from a determinate apical meristem (determinate meaning the axis grows to a set size). It has compressed internodes, bearing structures that in classical plant morphology are interpreted as highly modified leaves.[12] Detailed developmental studies, however, have shown that stamens are often initiated more or less like modified stems (caulomes) that in some cases may even resemble branchlets.[6][2] Taking into account the whole diversity in the development of the androecium of flowering plants, we find a continuum between modified leaves (phyllomes), modified stems (caulomes), and modified branchlets (shoots).[13][14]
+
+Flowering transition
+The transition to flowering is one of the major phase changes that a plant makes during its life cycle. The transition must take place at a time that is favorable for fertilization and the formation of seeds, hence ensuring maximal reproductive success. To meet these needs a plant is able to interpret important endogenous and environmental cues such as changes in levels of plant hormones and seasonable temperature and photoperiod changes.[15] Many perennial and most biennial plants require vernalization to flower. The molecular interpretation of these signals is through the transmission of a complex signal known as florigen, which involves a variety of genes, including Constans, Flowering Locus C and Flowering Locus T. Florigen is produced in the leaves in reproductively favorable conditions and acts in buds and growing tips to induce a number of different physiological and morphological changes.[16]
+
+The first step of the transition is the transformation of the vegetative stem primordia into floral primordia. This occurs as biochemical changes take place to change cellular differentiation of leaf, bud and stem tissues into tissue that will grow into the reproductive organs. Growth of the central part of the stem tip stops or flattens out and the sides develop protuberances in a whorled or spiral fashion around the outside of the stem end. These protuberances develop into the sepals, petals, stamens, and carpels. Once this process begins, in most plants, it cannot be reversed and the stems develop flowers, even if the initial start of the flower formation event was dependent of some environmental cue.[17] Once the process begins, even if that cue is removed the stem will continue to develop a flower.
+
+Yvonne Aitken has shown that flowering transition depends on a number of factors, and that plants flowering earliest under given conditions had the least dependence on climate whereas later-flowering varieties reacted strongly to the climate setup.
+
+Organ development
+Main article: ABC model of flower development
+
+The ABC model of flower development
+The molecular control of floral organ identity determination appears to be fairly well understood in some species. In a simple model, three gene activities interact in a combinatorial manner to determine the developmental identities of the organ primordia within the floral meristem. These gene functions are called A, B and C-gene functions. In the first floral whorl only A-genes are expressed, leading to the formation of sepals. In the second whorl both A- and B-genes are expressed, leading to the formation of petals. In the third whorl, B and C genes interact to form stamens and in the center of the flower C-genes alone give rise to carpels. The model is based upon studies of mutants in Arabidopsis thaliana and snapdragon, Antirrhinum majus. For example, when there is a loss of B-gene function, mutant flowers are produced with sepals in the first whorl as usual, but also in the second whorl instead of the normal petal formation. In the third whorl the lack of B function but presence of C-function mimics the fourth whorl, leading to the formation of carpels also in the third whorl.
+
+Most genes central in this model belong to the MADS-box genes and are transcription factors that regulate the expression of the genes specific for each floral organ.
+
+Floral function
+See also: Plant reproductive morphology
+
+A "perfect flower", this Crateva religiosa flower has both stamens (outer ring) and a pistil (center).
+The principal purpose of a flower is the reproduction of the individual and the species. All flowering plants are heterosporous, that is, every individual plant produces two types of spores. Microspores are produced by meiosis inside anthers and megaspores are produced inside ovules that are within an ovary. Anthers typically consist of four microsporangia and an ovule is an integumented megasporangium. Both types of spores develop into gametophytes inside sporangia. As with all heterosporous plants, the gametophytes also develop inside the spores, i. e., they are endosporic.
+
+In the majority of plant species, individual flowers have both functional carpels and stamens. Botanists describe these flowers as "perfect" or "bisexual", and the species as "hermaphroditic". In a minority of plant species, their flowers lack one or the other reproductive organ and are described as "imperfect" or "unisexual". If the individual plants of a species each have unisexual flowers of both sexes then the species is "monoecious". Alternatively, if each individual plant has only unisexual flowers of the same sex then the species is "dioecious".
+
+Floral specialization and pollination
+Further information: Pollination syndrome
+Flowering plants usually face selective pressure to optimize the transfer of their pollen, and this is typically reflected in the morphology of the flowers and the behaviour of the plants. Pollen may be transferred between plants via a number of 'vectors'. Some plants make use of abiotic vectors — namely wind (anemophily) or, much less commonly, water (hydrophily). Others use biotic vectors including insects (entomophily), birds (ornithophily), bats (chiropterophily) or other animals. Some plants make use of multiple vectors, but many are highly specialised.
+
+Cleistogamous flowers are self-pollinated, after which they may or may not open. Many Viola and some Salvia species are known to have these types of flowers.
+
+The flowers of plants that make use of biotic pollen vectors commonly have glands called nectaries that act as an incentive for animals to visit the flower. Some flowers have patterns, called nectar guides, that show pollinators where to look for nectar. Flowers also attract pollinators by scent and color. Still other flowers use mimicry to attract pollinators. Some species of orchids, for example, produce flowers resembling female bees in color, shape, and scent. Flowers are also specialized in shape and have an arrangement of the stamens that ensures that pollen grains are transferred to the bodies of the pollinator when it lands in search of its attractant (such as nectar, pollen, or a mate). In pursuing this attractant from many flowers of the same species, the pollinator transfers pollen to the stigmas—arranged with equally pointed precision—of all of the flowers it visits.
+
+Anemophilous flowers use the wind to move pollen from one flower to the next. Examples include grasses, birch trees, ragweed and maples. They have no need to attract pollinators and therefore tend not to be "showy" flowers. Male and female reproductive organs are generally found in separate flowers, the male flowers having a number of long filaments terminating in exposed stamens, and the female flowers having long, feather-like stigmas. Whereas the pollen of animal-pollinated flowers tends to be large-grained, sticky, and rich in protein (another "reward" for pollinators), anemophilous flower pollen is usually small-grained, very light, and of little nutritional value to animals.
+
+Pollination
+Main article: Pollination
+
+Grains of pollen sticking to this bee will be transferred to the next flower it visits
+The primary purpose of a flower is reproduction. Since the flowers are the reproductive organs of plant, they mediate the joining of the sperm, contained within pollen, to the ovules — contained in the ovary. Pollination is the movement of pollen from the anthers to the stigma. The joining of the sperm to the ovules is called fertilization. Normally pollen is moved from one plant to another, but many plants are able to self pollinate. The fertilized ovules produce seeds that are the next generation. Sexual reproduction produces genetically unique offspring, allowing for adaptation. Flowers have specific designs which encourages the transfer of pollen from one plant to another of the same species. Many plants are dependent upon external factors for pollination, including: wind and animals, and especially insects. Even large animals such as birds, bats, and pygmy possums can be employed. The period of time during which this process can take place (the flower is fully expanded and functional) is called anthesis. The study of pollination by insects is called anthecology.
+
+Pollination mechanism
+The pollination mechanism employed by a plant depends on what method of pollination is utilized.
+
+Most flowers can be divided between two broad groups of pollination methods:
+
+Entomophilous: flowers attract and use insects, bats, birds or other animals to transfer pollen from one flower to the next. Often they are specialized in shape and have an arrangement of the stamens that ensures that pollen grains are transferred to the bodies of the pollinator when it lands in search of its attractant (such as nectar, pollen, or a mate). In pursuing this attractant from many flowers of the same species, the pollinator transfers pollen to the stigmas—arranged with equally pointed precision—of all of the flowers it visits. Many flowers rely on simple proximity between flower parts to ensure pollination. Others, such as the Sarracenia or lady-slipper orchids, have elaborate designs to ensure pollination while preventing self-pollination.
+
+
+Grass flower with vestigial perianth or lodicules
+Anemophilous: flowers use the wind to move pollen from one flower to the next, examples include the grasses, Birch trees, Ragweed and Maples. They have no need to attract pollinators and therefore tend not to grow large blossoms. Whereas the pollen of entomophilous flowers tends to be large-grained, sticky, and rich in protein (another "reward" for pollinators), anemophilous flower pollen is usually small-grained, very light, and of little nutritional value to insects, though it may still be gathered in times of dearth. Honeybees and bumblebees actively gather anemophilous corn (maize) pollen, though it is of little value to them.
+
+Some flowers with both stamens and a pistil are capable of self-fertilization, which does increase the chance of producing seeds but limits genetic variation. The extreme case of self-fertilization occurs in flowers that always self-fertilize, such as many dandelions. Some flowers are self-pollinated and use flowers that never open or are self-pollinated before the flowers open, these flowers are called cleistogamous. Many Viola species and some Salvia have these types of flowers. Conversely, many species of plants have ways of preventing self-fertilization. Unisexual male and female flowers on the same plant may not appear or mature at the same time, or pollen from the same plant may be incapable of fertilizing its ovules. The latter flower types, which have chemical barriers to their own pollen, are referred to as self-sterile or self-incompatible.
+
+Attraction methods
+
+A Bee orchid has evolved over many generations to better mimic a female bee to attract male bees as pollinators.
+Plants cannot move from one location to another, thus many flowers have evolved to attract animals to transfer pollen between individuals in dispersed populations. Flowers that are insect-pollinated are called entomophilous; literally "insect-loving" in Greek. They can be highly modified along with the pollinating insects by co-evolution. Flowers commonly have glands called nectaries on various parts that attract animals looking for nutritious nectar. Birds and bees have color vision, enabling them to seek out "colorful" flowers.
+
+Some flowers have patterns, called nectar guides, that show pollinators where to look for nectar; they may be visible only under ultraviolet light, which is visible to bees and some other insects. Flowers also attract pollinators by scent and some of those scents are pleasant to our sense of smell. Not all flower scents are appealing to humans; a number of flowers are pollinated by insects that are attracted to rotten flesh and have flowers that smell like dead animals, often called Carrion flowers, including Rafflesia, the titan arum, and the North American pawpaw (Asimina triloba). Flowers pollinated by night visitors, including bats and moths, are likely to concentrate on scent to attract pollinators and most such flowers are white.
+
+Other flowers use mimicry to attract pollinators. Some species of orchids, for example, produce flowers resembling female bees in color, shape, and scent. Male bees move from one such flower to another in search of a mate.
+
+Flower-pollinator relationships
+Many flowers have close relationships with one or a few specific pollinating organisms. Many flowers, for example, attract only one specific species of insect, and therefore rely on that insect for successful reproduction. This close relationship is often given as an example of coevolution, as the flower and pollinator are thought to have developed together over a long period of time to match each other's needs.
+
+This close relationship compounds the negative effects of extinction. The extinction of either member in such a relationship would mean almost certain extinction of the other member as well. Some endangered plant species are so because of shrinking pollinator populations.
+
+Pollen allergy
+There is much confusion about the role of flowers in allergies. For example, the showy and entomophilous goldenrod (Solidago) is frequently blamed for respiratory allergies, of which it is innocent, since its pollen cannot be airborne. The types of pollen that most commonly cause allergic reactions are produced by the plain-looking plants (trees, grasses, and weeds) that do not have showy flowers. These plants make small, light, dry pollen grains that are custom-made for wind transport.
+
+The type of allergens in the pollen is the main factor that determines whether the pollen is likely to cause hay fever. For example, pine tree pollen is produced in large amounts by a common tree, which would make it a good candidate for causing allergy. It is, however, a relatively rare cause of allergy because the types of allergens in pine pollen appear to make it less allergenic. Instead the allergen is usually the pollen of the contemporary bloom of anemophilous ragweed (Ambrosia), which can drift for many miles. Scientists have collected samples of ragweed pollen 400 miles out at sea and 2 miles high in the air.[18] A single ragweed plant can generate a million grains of pollen per day.[19]
+
+Among North American plants, weeds are the most prolific producers of allergenic pollen.[20] Ragweed is the major culprit, but other important sources are sagebrush, redroot pigweed, lamb's quarters, Russian thistle (tumbleweed), and English plantain.
+
+It is common to hear people say they are allergic to colorful or scented flowers like roses. In fact, only florists, gardeners, and others who have prolonged, close contact with flowers are likely to be sensitive to pollen from these plants. Most people have little contact with the large, heavy, waxy pollen grains of such flowering plants because this type of pollen is not carried by wind but by insects such as butterflies and bees.
+
+Seed dispersal
+Main article: Biological dispersal
+Evolution
+Life timeline
+This box: viewtalkedit
+-4500 —–-4000 —–-3500 —–-3000 —–-2500 —–-2000 —–-1500 —–-1000 —–-500 —–0 —
+Water
+Single-celled
+life
+Photosynthesis
+Eukaryotes
+Multicellular
+life
+Arthropods       Molluscs
+Plants
+Dinosaurs    
+Mammals
+Flowers
+Birds
+Primates
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+←
+Earth (−4540)
+←
+Earliest water
+←
+Earliest life
+←
+Earliest oxygen
+←
+Atmospheric oxygen
+←
+Oxygen crisis
+←
+Sexual reproduction
+←
+Earliest plants
+←
+Earliest animals
+←
+Ediacara biota
+←
+Cambrian explosion
+←
+Tetrapoda
+←
+Earliest apes
+P
+h
+a
+n
+e
+r
+o
+z
+o
+i
+c
+
+
+
+
+
+
+
+P
+r
+o
+t
+e
+r
+o
+z
+o
+i
+c
+
+
+
+A
+r
+c
+h
+e
+a
+n
+H
+a
+d
+e
+a
+n
+Pongola
+Huronian
+Cryogenian
+Andean
+Karoo
+Quaternary
+Ice Ages
+Clickable(million years ago)
+The image above contains clickable links(See also: Human timeline, and Nature timeline.)
+Further information: Evolution of flowers and Floral biology
+While land plants have existed for about 425 million years, the first ones reproduced by a simple adaptation of their aquatic counterparts: spores. In the sea, plants—and some animals—can simply scatter out genetic clones of themselves to float away and grow elsewhere. This is how early plants reproduced. But plants soon evolved methods of protecting these copies to deal with drying out and other damage which is even more likely on land than in the sea. The protection became the seed, though it had not yet evolved the flower. Early seed-bearing plants include the ginkgo and conifers.
+
+
+Archaefructus liaoningensis, one of the earliest known flowering plants
+Several groups of extinct gymnosperms, particularly seed ferns, have been proposed as the ancestors of flowering plants but there is no continuous fossil evidence showing exactly how flowers evolved. The apparently sudden appearance of relatively modern flowers in the fossil record posed such a problem for the theory of evolution that it was called an "abominable mystery" by Charles Darwin.
+
+Recently discovered angiosperm fossils such as Archaefructus, along with further discoveries of fossil gymnosperms, suggest how angiosperm characteristics may have been acquired in a series of steps. An early fossil of a flowering plant, Archaefructus liaoningensis from China, is dated about 125 million years old.[21][22] Even earlier from China is the 125–130 million years old Archaefructus sinensis. In 2015 a plant (130 million-year-old Montsechia vidalii, discovered in Spain) was claimed to be 130 million years old.[23] In 2018, scientists reported that the earliest flowers began about 180 million years ago.[24]
+
+
+Amborella trichopoda may have characteristic features of the earliest flowering plants
+Recent DNA analysis (molecular systematics)[25] shows that Amborella trichopoda, found on the Pacific island of New Caledonia, is the only species in the sister group to the rest of the flowering plants, and morphological studies suggest that it has features which may have been characteristic of the earliest flowering plants.[26]
+
+Besides the hard proof of flowers in or shortly before the Cretaceous,[27][28] there is some circumstantial evidence of flowers as much as 250 million years ago. A chemical used by plants to defend their flowers, oleanane, has been detected in fossil plants that old, including gigantopterids,[29] which evolved at that time and bear many of the traits of modern, flowering plants, though they are not known to be flowering plants themselves, because only their stems and prickles have been found preserved in detail; one of the earliest examples of petrification.
+
+The similarity in leaf and stem structure can be very important, because flowers are genetically just an adaptation of normal leaf and stem components on plants, a combination of genes normally responsible for forming new shoots.[30] The most primitive flowers are thought to have had a variable number of flower parts, often separate from (but in contact with) each other. The flowers would have tended to grow in a spiral pattern, to be bisexual (in plants, this means both male and female parts on the same flower), and to be dominated by the ovary (female part). As flowers grew more advanced, some variations developed parts fused together, with a much more specific number and design, and with either specific sexes per flower or plant, or at least "ovary inferior".
+
+The general assumption is that the function of flowers, from the start, was to involve animals in the reproduction process. Pollen can be scattered without bright colors and obvious shapes, which would therefore be a liability, using the plant's resources, unless they provide some other benefit. One proposed reason for the sudden, fully developed appearance of flowers is that they evolved in an isolated setting like an island, or chain of islands, where the plants bearing them were able to develop a highly specialized relationship with some specific animal (a wasp, for example), the way many island species develop today. This symbiotic relationship, with a hypothetical wasp bearing pollen from one plant to another much the way fig wasps do today, could have eventually resulted in both the plant(s) and their partners developing a high degree of specialization. Island genetics is believed to be a common source of speciation, especially when it comes to radical adaptations which seem to have required inferior transitional forms. Note that the wasp example is not incidental; bees, apparently evolved specifically for symbiotic plant relationships, are descended from wasps.
+
+Likewise, most fruit used in plant reproduction comes from the enlargement of parts of the flower. This fruit is frequently a tool which depends upon animals wishing to eat it, and thus scattering the seeds it contains.
+
+While many such symbiotic relationships remain too fragile to survive competition with mainland organisms, flowers proved to be an unusually effective means of production, spreading (whatever their actual origin) to become the dominant form of land plant life.
+
+Flower evolution continues to the present day; modern flowers have been so profoundly influenced by humans that many of them cannot be pollinated in nature. Many modern, domesticated flowers used to be simple weeds, which only sprouted when the ground was disturbed. Some of them tended to grow with human crops, and the prettiest did not get plucked because of their beauty, developing a dependence upon and special adaptation to human affection.[31]
+
+Color
+See also: Color garden
+
+Reflectance spectra for the flowers of several varieties of rose. A red rose absorbs about 99.7% of light across a broad area below the red wavelengths of the spectrum, leading to an exceptionally pure red. A yellow rose will reflect about 5% of blue light, producing an unsaturated yellow (a yellow with a degree of white in it).
+Many flowering plants reflect as much light as possible within the range of visible wavelengths of the pollinator the plant intends to attract. Flowers that reflect the full range of visible light are generally perceived as white by a human observer. An important feature of white flowers is that they reflect equally across the visible spectrum. While many flowering plants use white to attract pollinators, the use of color is also widespread (even within the same species). Color allows a flowering plant to be more specific about the pollinator it seeks to attract. The color model used by human color reproduction technology (CMYK) relies on the modulation of pigments that divide the spectrum into broad areas of absorption. Flowering plants by contrast are able to shift the transition point wavelength between absorption and reflection. If it is assumed that the visual systems of most pollinators view the visible spectrum as circular then it may be said that flowering plants produce color by absorbing the light in one region of the spectrum and reflecting the light in the other region. With CMYK, color is produced as a function of the amplitude of the broad regions of absorption. Flowering plants by contrast produce color by modifying the frequency (or rather wavelength) of the light reflected. Most flowers absorb light in the blue to yellow region of the spectrum and reflect light from the green to red region of the spectrum. For many species of flowering plant, it is the transition point that characterizes the color that they produce. Color may be modulated by shifting the transition point between absorption and reflection and in this way a flowering plant may specify which pollinator it seeks to attract. Some flowering plants also have a limited ability to modulate areas of absorption. This is typically not as precise as control over wavelength. Humans observers will perceive this as degrees of saturation (the amount of white in the color).
+
+Symbolism
+
+Lilies are often used to denote life or resurrection
+Main article: Language of flowers
+Many flowers have important symbolic meanings in Western culture.[32] The practice of assigning meanings to flowers is known as floriography. Some of the more common examples include:
+
+Red roses are given as a symbol of love, beauty, and passion.[33]
+Poppies are a symbol of consolation in time of death. In the United Kingdom, New Zealand, Australia and Canada, red poppies are worn to commemorate soldiers who have died in times of war.
+Irises/Lily are used in burials as a symbol referring to "resurrection/life". It is also associated with stars (sun) and its petals blooming/shining.
+Daisies are a symbol of innocence.
+
+Flowers are common subjects of still life paintings, such as this one by Ambrosius Bosschaert the Elder
+Because of their varied and colorful appearance, flowers have long been a favorite subject of visual artists as well. Some of the most celebrated paintings from well-known painters are of flowers, such as Van Gogh's sunflowers series or Monet's water lilies. Flowers are also dried, freeze dried and pressed in order to create permanent, three-dimensional pieces of flower art.
+
+Flowers within art are also representative of the female genitalia,[34] as seen in the works of artists such as Georgia O'Keeffe, Imogen Cunningham, Veronica Ruiz de Velasco, and Judy Chicago, and in fact in Asian and western classical art. Many cultures around the world have a marked tendency to associate flowers with femininity.
+
+The great variety of delicate and beautiful flowers has inspired the works of numerous poets, especially from the 18th–19th century Romantic era. Famous examples include William Wordsworth's I Wandered Lonely as a Cloud and William Blake's Ah! Sun-Flower.
+
+Their symbolism in dreams has also been discussed, with possible interpretations including "blossoming potential".[35]
+
+The Roman goddess of flowers, gardens, and the season of Spring is Flora. The Greek goddess of spring, flowers and nature is Chloris.
+
+In Hindu mythology, flowers have a significant status. Vishnu, one of the three major gods in the Hindu system, is often depicted standing straight on a lotus flower.[36] Apart from the association with Vishnu, the Hindu tradition also considers the lotus to have spiritual significance.[37] For example, it figures in the Hindu stories of creation.[38]
+
+Human usage
+
+This section needs additional citations for verification. Please help improve this article by adding citations to reliable sources. Unsourced material may be challenged and removed. (November 2018) (Learn how and when to remove this template message)
+
+Chancel flowers, placed upon the altar of St. Arsatius's Church in Ilmmünster.
+In modern times, people have sought ways to cultivate, buy, wear, or otherwise be around flowers and blooming plants, partly because of their agreeable appearance and smell. Around the world, people use flowers to mark important events in their lives:
+
+For new births or christenings
+As a corsage or boutonniere worn at social functions or for holidays
+As tokens of love or esteem
+For wedding flowers for the bridal party, and for decorations for the hall
+As brightening decorations within the home
+As a gift of remembrance for bon voyage parties, welcome-home parties, and "thinking of you" gifts
+For funeral flowers and expressions of sympathy for the grieving
+For worship. In Christianity, chancel flowers often adorn churches.[39] In Hindu culture, adherents commonly bring flowers as a gift to temples[40]
+
+A woman spreading flowers over a lingam in a temple in Varanasi
+People therefore grow flowers around their homes, dedicate parts of their living space to flower gardens, pick wildflowers, or buy commercially-grown flowers from florists.
+
+Flowers provide less food than other major plant parts (seeds, fruits, roots, stems and leaves), but still provide several important vegetables and spices. Flower vegetables include broccoli, cauliflower and artichoke. The most expensive spice, saffron, consists of dried stigmas of a crocus. Other flower spices are cloves and capers. Hops flowers are used to flavor beer. Marigold flowers are fed to chickens to give their egg yolks a golden yellow color, which consumers find more desirable; dried and ground marigold flowers are also used as a spice and colouring agent in Georgian cuisine. Flowers of the dandelion and elder are often made into wine. Bee pollen, pollen collected from bees, is considered a health food by some people. Honey consists of bee-processed flower nectar and is often named for the type of flower, e.g. orange blossom honey, clover honey and tupelo honey.
+
+Hundreds of fresh flowers are edible, but only few are widely marketed as food. They are often added to salads as garnishes. Squash blossoms are dipped in breadcrumbs and fried. Some edible flowers include nasturtium, chrysanthemum, carnation, cattail, Japanese honeysuckle, chicory, cornflower, canna, and sunflower.[41] Edible flowers such as daisy, rose, and violet are sometimes candied.[42]
+
+Flowers such as chrysanthemum, rose, jasmine, Japanese honeysuckle, and chamomile, chosen for their fragrance and medicinal properties, are used as tisanes, either mixed with tea or on their own.[43]
+
+Flowers have been used since prehistoric times in funeral rituals: traces of pollen have been found on a woman's tomb in the El Miron Cave in Spain.[44] Many cultures draw a connection between flowers and life and death, and because of their seasonal return flowers also suggest rebirth, which may explain why many people place flowers upon graves. The ancient Greeks, as recorded in Euripides's play The Phoenician Women, placed a crown of flowers on the head of the deceased;[45] they also covered tombs with wreaths and flower petals. Flowers were widely used in ancient Egyptian burials,[46] and the Mexicans to this day use flowers prominently in their Day of the Dead celebrations[47] in the same way that their Aztec ancestors did.
+
+
+Eight Flowers, a painting by artist Qian Xuan, 13th century, Palace Museum, Beijing.
+Flower-giving
+
+Flower market – Detroit's Eastern Market
+The flower-giving tradition goes back to prehistoric times when flowers often had a medicinal and herbal attributes. Archaeologists found in several grave sites remnants of flower petals. Flowers were first used as sacrificial and burial objects. Ancient Egyptians and later Greeks and Romans used flowers. In Egypt, burial objects from the time around 1540 BC[citation needed] were found, which depicted red poppy, yellow Araun, cornflower and lilies. Records of flower giving appear in Chinese writings and Egyptian hieroglyphics, as well as in Greek and Roman mythology. The practice of giving a flower flourished in the Middle Ages when couples showed affection through flowers.
+
+The tradition of flower-giving exists in many forms. It is an important part of Russian culture and folklore. It is common for students to give flowers to their teachers. To give yellow flowers in a romantic relationship means break-up in Russia. Nowadays, flowers are often given away in the form of a flower bouquet.[48][49][50][51]
+
+See also
+Floral color change
+Flower preservation
+Garden
+Horticulture and gardening
+List of garden plants
+Plant evolutionary developmental biology
+Plant reproductive morphology
+Sowing
+References
+ "Self-Pollination and Cross-Pollination".
+ Sattler, R. (1973). Organogenesis of Flowers. A Photographic Text-Atlas. University of Toronto Press. ISBN 978-0-8020-1864-9.
+ Reynolds, Joan; Tampion, John (1983). Double flowers: a scientific study. London: [Published for the] Polytechnic of Central London Press [by] Pembridge Press. p. 41. ISBN 978-0-86206-004-6.
+ Sattler, R. (1978). "'Fusion' and 'continuity' in floral morphology". Notes of the Royal Botanic Garden, Edinburgh. 36: 397–405.
+ Greyson, R.I. (1994). The Development of Flowers. Oxford University Press. ISBN 978-0-19-506688-3.
+ Leins, P. & Erbar, C. (2010). Flower and Fruit. Stuttgart: Schweizerbart Science Publishers. ISBN 978-3-510-65261-7.
+ Prenner, Gernard (February 2010). "Floral formulae updated for routine inclusion in formal taxonomic descriptions". Taxon. 59 (1): 241–250. doi:10.1002/tax.591022. Archived from the original on 2018-03-29.
+ de Craene, Louis P. Ronse (2010). Floral Diagrams. Cambridge University Press. p. 459. ISBN 9781139484558.
+ Stephen Downie; Ken Robertson. "Digital Flowers: Floral Formulas". University of Illinois. Archived from the original on 4 March 2016. Retrieved 28 January 2014.
+ Sharma, O.P. (2009). Plant Taxonomy (2nd ed.). Tata McGraw-Hill Education. pp. 165–166. ISBN 978-1259081378. Archived from the original on 2016-05-29.
+ Plant Taxonomy: Floral Formulas. St. John's University, Collegeville, MN Archived 2014-06-24 at the Wayback Machine
+ Eames, A.J. (1961). Morphology of the Angiosperms. New York: McGraw-Hill Book Co.
+ Sattler, R. (1988). "A dynamic multidimensional approach to floral development". In Leins, P.; Tucker, S.C. & Endress, P.K. (eds.). Aspects of Floral Development. Berlin: J. Cramer/Borntraeger. pp. 1–6.
+ Sattler, R. & Jeune, B. (1992). "Multivariate analysis confirms the continuum view of plant form". Annals of Botany. 69 (3): 249–262. doi:10.1093/oxfordjournals.aob.a088338.
+ Ausín, I.; et al. (2005). "Environmental regulation of flowering". Int J Dev Biol. 49 (5–6): 689–705. doi:10.1387/ijdb.052022ia. PMID 16096975.
+ Turck, F.; Fornara, F.; Coupland, G. (2008). "Regulation and Identity of Florigen: Flowering Locus T Moves Centre Stage". Annual Review of Plant Biology. 59: 573–594. doi:10.1146/annurev.arplant.59.032607.092755. hdl:11858/00-001M-0000-0012-374F-8. PMID 18444908.
+ Searle, I.; et al. (2006). "The transcription factor FLC confers a flowering response to vernalization by repressing meristem competence and systemic signaling in Arabidopsis". Genes Dev. 20 (7): 898–912. doi:10.1101/gad.373506. PMC 1472290. PMID 16600915.
+ "Pollen Allergy". National Institute of Allergy and Infectious Diseases. Archived from the original on 2015-04-10. Retrieved 2016-05-24.
+ "Pollen Allergy" (PDF). Mass Lung & Allergy, PC. Archived from the original (PDF) on 2014-04-13. Retrieved 2014-04-10.
+ "Pollen Allergy". AccuWeather. April 14, 2010. Archived from the original on April 13, 2014.
+ Susan K. Lewis (April 17, 2007). "Flowers Modern & Ancient". PBS Online. Archived from the original on September 7, 2009. Retrieved 2010-08-30.
+ NOVA. 2007-04-17. PBS. WGBH. First Flower.
+ Thomson, Helen (Aug 17, 2015). "Fossilised remains of world's oldest flower discovered in Spain". The Guardian. Archived from the original on 2017-03-03.
+ Chinese Academy of Sciences (18 December 2018). "Flowers originated 50 million years earlier than previously thought". EurekAlert!. Retrieved 18 December 2018.
+ Soltis, Douglas E.; Soltis, Pamela S. (2004). "Amborella not a "basal angiosperm"? Not so fast". American Journal of Botany. 91 (6): 997–1001. doi:10.3732/ajb.91.6.997. PMID 21653455. Archived from the original on 2010-06-26. Retrieved 2010-08-30.
+ "South Pacific plant may be missing link in evolution of flowering plants". Eurekalert.org. 2006-05-17. Archived from the original on 2011-05-14. Retrieved 2010-08-30.
+ Gabbott, Sarah (1 August 2017). "Did the first flower look like this?". BBC News. Archived from the original on 1 August 2017. Retrieved 1 August 2017.
+ Sauquet, Hervé; et al. (1 August 2017). "The ancestral flower of angiosperms and its early diversification". Nature Communications. 8: 16047. Bibcode:2017NatCo...816047S. doi:10.1038/ncomms16047. PMC 5543309. PMID 28763051.
+ "Oily Fossils Provide Clues To The Evolution Of Flowers". Sciencedaily.com. 2001-04-05. Archived from the original on 2010-08-19. Retrieved 2010-08-30.
+ "Age-Old Question On Evolution Of Flowers Answered". Unisci.com. 2001-06-15. Archived from the original on 2010-06-10. Retrieved 2010-08-30.
+ "Human Affection Altered Evolution of Flowers". Livescience.com. Archived from the original on 2008-05-16. Retrieved 2010-08-30.
+ "The Meanings of Flowers". Flower Magazine. 2018-05-28. Retrieved 2018-12-12.
+ Audet, Marye. "Roses and Their Meaning". Archived from the original on 26 August 2014. Retrieved 22 August 2014.
+ Frownfelter, Andrea. "Flower Symbolism as Female Sexual Metaphor". Eastern Michigan University. Archived from the original on 2014-08-10.
+ Dee, Nerys (1984). Your Dreams & What They Mean. Surrey, Great Britain: Guild Publishing. p. 142.
+ "Vishnu". Bbc.co.uk. 2009-08-24. Archived from the original on 2010-10-28. Retrieved 2010-08-30.
+ "God's Favorite Flower". Hinduism Today. Archived from the original on 2009-04-13. Retrieved 2010-08-30.
+ "The Lotus". Theosociety.org. Archived from the original on 2017-09-10. Retrieved 2010-08-30.
+ Wilson, Adelaide B.; Wilson, Lois (1967). Flowers for Your Church. M. Barrows. p. 26.
+ "VISITING A HINDU TEMPLE; A BEGINNER'S GUIDE". Hinduism Today. April 1991.
+ Wood, Zoe (30 June 2017). "Blooming tasty – edible flowers are summer's hottest food trend". The Guardian.
+ Bradley, Sue (8 May 2015). "How to crystallise flowers like the Victorians". The Telegraph.
+ Wong, James (7 May 2017). "Grow your own herbal teas". The Guardian.
+ "Stone Age mourners 'placed flowers on graves'". The Telegraph. 10 May 2015.
+ "Burial Rites". Hellenica World. Retrieved 28 November 2018.
+ Hays, Christopher B. (2011). Death in the Iron Age II and in First Isaiah. Mohr Siebeck. p. 302. ISBN 978-3-16-150785-4.
+ Day, Frances Ann (2003). Latina and Latino Voices in Literature. Greenwood. p. 72. ISBN 978-0313323942.
+ By (2015-08-11). "The Fascinating Tradition of Giving Flowers". Flowers of the Field Las Vegas. Retrieved 2019-03-15.
+ By (2015-08-11). "The Fascinating Tradition of Giving Flowers". Flowers of the Field Las Vegas. Retrieved 2019-03-15.
+ "The Cross-Cultural Rhetoric Blog: Flowers in Russia". web.stanford.edu. Retrieved 2019-03-15.
+ "Folk Art in Russia and Ukraine | News & Info". Retrieved 2019-03-15.
+Further reading
+Buchmann, Stephen (2016). The Reason for Flowers: Their History, Culture, Biology, and How They Change Our Lives. Scribner. ISBN 978-1476755533.
+Esau, Katherine (1965). Plant Anatomy (2nd ed.). New York: John Wiley & Sons. ISBN 978-0-471-24455-4.
+Greyson, R.I. (1994). The Development of Flowers. Oxford University Press. ISBN 978-0-19-506688-3.
+Leins, P. & Erbar, C. (2010). Flower and Fruit. Stuttgart: Schweizerbart Science Publishers. ISBN 978-3-510-65261-7.
+Sattler, R. (1973). Organogenesis of Flowers. A Photographic Text-Atlas. University of Toronto Press. ISBN 978-0-8020-1864-9.
+External links
+	Look up flower in Wiktionary, the free dictionary.
+	Wikimedia Commons has media related to:
+Flowers (category)
+ Quotations related to Flowers at Wikiquote
+Native Plant Information Network
