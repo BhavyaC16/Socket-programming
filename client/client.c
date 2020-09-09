@@ -19,8 +19,7 @@ int main(int argc, char *argv[])
 
 	server.sin_family = AF_INET;
 	server.sin_port = htons(PORT);
-	//server.sin_addr.s_addr = INADDR_ANY;
-
+	
 	socketID = socket(AF_INET, SOCK_STREAM, 0);
 	if(socketID==-1){
 		perror("Error in socket creation");
@@ -83,9 +82,19 @@ int main(int argc, char *argv[])
 		x = recv(socketID, content, MAX_BUFF, 0);
 	}
 
-	printf("File downloaded\n");
 	fclose(fp);
-	//Send filename and Download file from server.
+	
+	// char file_downloaded[2] = {0};
+	// strcpy(file_downloaded, "Y");
+	// send(socketID, file_downloaded, 2, 0);
+	// char success_status[2] = {0};
+	// recv(socketID, success_status, 2, 0);
+	// if(strcmp(success_status, "1")==0){
+	// 	printf("File downloaded successfully\n");
+	// }
+	// else{
+	// 	printf("File could not be downloaded completely\n");
+	// }
 
 	printf("Closing connection\n");
 	close(socketID);
