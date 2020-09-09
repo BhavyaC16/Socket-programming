@@ -92,7 +92,7 @@ int main()
 			memset(content, 0, MAX_BUFF);
 			x = fread(content, 1, MAX_BUFF, fp);
 		}
-
+		fclose(fp);
 		printf("File sent to client\nClosing connection");
 		close(client);
 	}
