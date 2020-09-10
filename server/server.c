@@ -56,12 +56,12 @@ int main()
 		}
 		printf("Client connected\nWaiting for client to send filename\n");
 
-		char filenameRecd[1024] = {0};
-		char file_path[1500];
 		FILE* fp;
 
 		int correct_filename = 0;
 		while(correct_filename==0){
+			char filenameRecd[1024] = {0};
+			char file_path[1500];
 			read(client, filenameRecd, 1024);
 			strcpy(file_path, "../shared_drive/");
 			strcat(file_path, filenameRecd);
@@ -84,21 +84,34 @@ int main()
 		}
 
 		printf("File opened\nStarting file transfer\n");
-
+		char success_status[2] = {0};
+		strcpy(success_status, "1");
 		int x;
 		char content[1025] = {0};
 		x = fread(content, 1, MAX_BUFF, fp);
 		while(x>0){
 			int file_transfer_status = send(client, content, x, 0);
 			if(file_transfer_status==-1){
-				perror("Error in sending file");
-				exit(1);
+				printf("Error in sending file");
+				strcpy(success_status, "0");
+				break;
 			}
 			memset(content, 0, MAX_BUFF);
 			x = fread(content, 1, MAX_BUFF, fp);
 		}
 		fclose(fp);
-		printf("File sent to client\nClosing connection");
+
+		char client_ack[2] = {0};
+		read(client, client_ack, 2);
+		printf("%s\n", client_ack);
+		send(client, success_status, 2, 0);
+		printf("send status\n");
+		if(strcmp(success_status, "1")==0){
+			printf("File sent to client\nClosing connection");
+		}
+		else{
+			printf("Encountered error while sending file\nClosing connection\n");
+		}
 		close(client);
 	}
 

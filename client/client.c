@@ -95,18 +95,18 @@ int main(int argc, char *argv[])
 	}
 
 	fclose(fp);
-	
-	// char file_downloaded[2] = {0};
-	// strcpy(file_downloaded, "Y");
-	// send(socketID, file_downloaded, 2, 0);
-	// char success_status[2] = {0};
-	// recv(socketID, success_status, 2, 0);
-	// if(strcmp(success_status, "1")==0){
-	// 	printf("File downloaded successfully\n");
-	// }
-	// else{
-	// 	printf("File could not be downloaded completely\n");
-	// }
+
+	char file_downloaded[2] = {0};
+	strcpy(file_downloaded, "Y");
+	send(socketID, file_downloaded, 2, 0);
+	char success_status[2] = {0};
+	read(socketID, success_status, 2);
+	if(strcmp(success_status, "1")==0){
+		printf("File downloaded successfully\n");
+	}
+	else{
+		printf("File could not be downloaded completely\n");
+	}
 
 	printf("Closing connection\n");
 	close(socketID);
