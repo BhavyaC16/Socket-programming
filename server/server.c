@@ -112,10 +112,7 @@ int main()
 		}
 		printf("File transferred\nClosing the file\n");
 		fclose(fp);
-
-		//Server closes connection to client after file transfer
-		printf("Closing connection to client");
-		close(client);
+		printf("Client closed connection\n");
 	}
 
 	//Closing the server

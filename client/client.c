@@ -91,11 +91,12 @@ int main(int argc, char *argv[])
 	}
 	printf("Created file in local drive\n");
 
-	// PART-F: CLIENT STORES THE FILE IN LOCAL DRIVE 
+	// PART-F: CLIENT STORES THE FILE IN LOCAL DRIVE
 	int x;
+	int flag = 1;
 	char content[1025] = {0};
 	x = recv(socketID, content, MAX_BUFF, 0);
-	while(x>0){
+	while(x==1024){
 		int file_write_status = fwrite(content, 1, x, fp);
 		if(file_write_status!=x){
 			perror("Error in downloading file");
@@ -104,7 +105,7 @@ int main(int argc, char *argv[])
 		memset(content, 0, MAX_BUFF);
 		x = recv(socketID, content, MAX_BUFF, 0);
 	}
-
+	fwrite(content, 1, x, fp);
 	printf("File downloaded, closing file\n");
 	fclose(fp);
 
