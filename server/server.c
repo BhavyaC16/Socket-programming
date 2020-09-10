@@ -99,19 +99,20 @@ int main()
 			memset(content, 0, MAX_BUFF);
 			x = fread(content, 1, MAX_BUFF, fp);
 		}
+
 		fclose(fp);
 
-		char client_ack[2] = {0};
-		read(client, client_ack, 2);
-		printf("%s\n", client_ack);
-		send(client, success_status, 2, 0);
-		printf("send status\n");
-		if(strcmp(success_status, "1")==0){
-			printf("File sent to client\nClosing connection");
-		}
-		else{
-			printf("Encountered error while sending file\nClosing connection\n");
-		}
+		//char client_ack[2] = {0};
+		//read(client, client_ack, 2);
+		//printf("%s\n", client_ack);
+		//send(client, success_status, 2, 0);
+		//printf("send status\n");
+		//if(strcmp(success_status, "1")==0){
+		//	printf("File sent to client\nClosing connection");
+		//}
+		//else{
+		//	printf("Encountered error while sending file\nClosing connection\n");
+		//}
 		close(client);
 	}
 
