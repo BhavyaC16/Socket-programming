@@ -17,7 +17,6 @@ int main()
 	int client;
 	struct sockaddr_in server;
 	int address_length = sizeof(server);
-	FILE* file;
 
 	server.sin_family = AF_INET;
 	server.sin_port = htons(PORT);
@@ -106,7 +105,6 @@ int main()
 			int file_transfer_status = send(client, content, x, 0);
 			if(file_transfer_status==-1){
 				printf("Error in sending file");
-				strcpy(success_status, "0");
 				break;
 			}
 			memset(content, 0, MAX_BUFF);
