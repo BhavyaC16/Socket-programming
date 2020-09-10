@@ -58,26 +58,30 @@ int main()
 
 		char filenameRecd[1024] = {0};
 		char file_path[1500];
-		read(client, filenameRecd, 1024);
-		strcpy(file_path, "../shared_drive/");
-		strcat(file_path, filenameRecd);
 
-		printf("Filename sent by client: %s\n", filenameRecd);
-		printf("Path to file: %s\n", file_path);
+		int correct_filename = 0;
+		while(correct_filename==0){
+			read(client, filenameRecd, 1024);
+			strcpy(file_path, "../shared_drive/");
+			strcat(file_path, filenameRecd);
 
-		char file_found_status[2] = {0};
-		FILE* fp = fopen(file_path, "rb");
-		if(fp==NULL){
-			strcpy(file_found_status, "0");
-			send(client, file_found_status, 2, 0);
-			printf("File not found in shared drive\nClosing connection\n");
-			close(client);
-			continue;
-			//perror("File not found in shared drive");
-			//exit(1);
+			printf("Filename sent by client: %s\n", filenameRecd);
+			printf("Path to file: %s\n", file_path);
+
+			char file_found_status[2] = {0};
+			FILE* fp = fopen(file_path, "rb");
+			if(fp==NULL){
+				strcpy(file_found_status, "0");
+				send(client, file_found_status, 2, 0);
+				printf("File not found in shared drive\n");
+			}
+			else{
+				correct_filename = 1;
+				strcpy(file_found_status, "1");
+				send(client, file_found_status, 2, 0);
+			}
 		}
-		strcpy(file_found_status, "1");
-		send(client, file_found_status, 2, 0);
+
 		printf("File opened\nStarting file transfer\n");
 
 		int x;
