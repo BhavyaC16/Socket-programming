@@ -58,6 +58,7 @@ int main()
 
 		char filenameRecd[1024] = {0};
 		char file_path[1500];
+		FILE* fp;
 
 		int correct_filename = 0;
 		while(correct_filename==0){
@@ -69,7 +70,7 @@ int main()
 			printf("Path to file: %s\n", file_path);
 
 			char file_found_status[2] = {0};
-			FILE* fp = fopen(file_path, "rb");
+			fp = fopen(file_path, "rb");
 			if(fp==NULL){
 				strcpy(file_found_status, "0");
 				send(client, file_found_status, 2, 0);
