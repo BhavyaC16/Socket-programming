@@ -19,18 +19,13 @@ int main(int argc, char *argv[])
 
 	server.sin_family = AF_INET;
 	server.sin_port = htons(PORT);
-
+	
 	socketID = socket(AF_INET, SOCK_STREAM, 0);
 	if(socketID==-1){
 		perror("Error in socket creation");
 		exit(1);
 	}
 	printf("Socket created\n");
-
-	if(argc!=2){
-		printf("Please provide IP address as an argument to the client.\nFor example, for local server, execute ./client 127.0.0.1\nElse, specify the IP address of the sever: ./client 192.168.xxx.xxx\n");
-		exit(0);
-	}
 
 	if(inet_pton(AF_INET, argv[1], &server.sin_addr)<=0)
     {
@@ -46,26 +41,32 @@ int main(int argc, char *argv[])
 	printf("Connected to server\n");
 
 	char filenameToSend[1024] = {0};
-	printf("Enter the filename: ");
-	scanf("%s", filenameToSend);
-
 	char file_path[1500];
-	strcpy(file_path, "../local_drive/");
-	strcat(file_path, filenameToSend);
 
-	int filename_transfer_status = send(socketID, filenameToSend, strlen(filenameToSend), 0);
-	if(filename_transfer_status==-1){
-		perror("Error in sending filename to server");
-		exit(1);
-	}
-	printf("Filename sent\n");
+	int correct_filename = 0;
+	while(correct_filename==0){
+		printf("Enter the filename: ");
+		scanf("%s", filenameToSend);
 
-	char file_found_status[2] = {0};
-	recv(socketID, file_found_status, 2, 0);
-	if(strcmp(file_found_status, "0")==0){
-		printf("File not found in shared drive\nClosing client\n");
-		close(socketID);
-		exit(1);
+		strcpy(file_path, "../local_drive/");
+		strcat(file_path, filenameToSend);
+
+		int filename_transfer_status = send(socketID, filenameToSend, strlen(filenameToSend), 0);
+		if(filename_transfer_status==-1){
+			perror("Error in sending filename to server");
+			exit(1);
+		}
+		printf("Filename sent\n");
+
+		char file_found_status[2] = {0};
+		recv(socketID, file_found_status, 2, 0);
+		if(strcmp(file_found_status, "0")==0){
+			printf("File not found in shared drive\nTry again\n");
+		}
+		else{
+			printf("File found, starting download\n");
+			correct_filename = 1;
+		}
 	}
 
 	FILE* fp = fopen(file_path, "wb");
