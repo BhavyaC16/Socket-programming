@@ -20,12 +20,15 @@ int main(int argc, char *argv[])
 	server.sin_family = AF_INET;
 	server.sin_port = htons(PORT);
 
+	//client creates socket
 	socketID = socket(AF_INET, SOCK_STREAM, 0);
 	if(socketID==-1){
 		perror("Error in socket creation");
 		exit(1);
 	}
 
+	//Client checks if IP address of server has been provided
+	//as an argument.
 	if(argc!=2){
 		printf("Please provide the IP address of the server as an argument to the client.\nFor Example, for local server, execute: ./client 127.0.0.1\nElse, mention the IP address of the server: ./client 192.168.xxx.xxx\n");
 		exit(0);
@@ -39,6 +42,7 @@ int main(int argc, char *argv[])
         exit(1);
     }
 
+    // PART-A: CLIENT INITIATES CONNECTION 
 	int connection_status = connect(socketID, (struct sockaddr *)&server, sizeof(server));
 	if(connection_status!=0){
 		perror("Error in connecting to server");
@@ -51,12 +55,14 @@ int main(int argc, char *argv[])
 
 	int correct_filename = 0;
 	while(correct_filename==0){
+		// PART-B: CLIENT TAKES A FILENAME FROM THE USER
 		printf("Enter the filename: ");
 		scanf("%s", filenameToSend);
 
 		strcpy(file_path, "../local_drive/");
 		strcat(file_path, filenameToSend);
 
+		// PART-C: CLIENT SENDS THE FILENAME TO SERVER
 		int filename_transfer_status = send(socketID, filenameToSend, strlen(filenameToSend), 0);
 		if(filename_transfer_status==-1){
 			perror("Error in sending filename to server");
@@ -64,6 +70,8 @@ int main(int argc, char *argv[])
 		}
 		printf("Filename sent\n");
 
+		//Client receives status from server. If the file is not found
+		//in the shared drive, it prompts the user to enter another filename
 		char file_found_status[2] = {0};
 		recv(socketID, file_found_status, 2, 0);
 		if(strcmp(file_found_status, "0")==0){
@@ -75,15 +83,15 @@ int main(int argc, char *argv[])
 		}
 	}
 
-	printf("Reached here\n");
-
+	//client creates and opens the file for writing
 	FILE* fp = fopen(file_path, "wb");
 	if(fp==NULL){
 		perror("Cannot download file");
 		exit(1);
 	}
-	printf("Opened file\n");
+	printf("Created file in local drive\n");
 
+	// PART-F: CLIENT STORES THE FILE IN LOCAL DRIVE 
 	int x;
 	char content[1025] = {0};
 	x = recv(socketID, content, MAX_BUFF, 0);
@@ -97,8 +105,10 @@ int main(int argc, char *argv[])
 		x = recv(socketID, content, MAX_BUFF, 0);
 	}
 
+	printf("File downloaded, closing file\n");
 	fclose(fp);
 
-	printf("Closing connection\n");
+	// PART-G: CLIENT CLOSES THE CONNECTION
+	printf("Closing connection to server\n");
 	close(socketID);
 }
